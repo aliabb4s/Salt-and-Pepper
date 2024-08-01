@@ -56,17 +56,17 @@
 .express-logo1{
     background-color: #ffffff;
     border: 0px solid #ffffff;
-    border-radius: 10px;
+    border-radius: 30px;
 }
 .express-logo2{
     background-color: #ffffff;
     border: 0px solid #ffffff;
-    border-radius: 10px;
+    border-radius: 30px;
 }
 .express-logo3{
     background-color: #ffffff;
     border: 0px solid #ffffff;
-    border-radius: 10px;
+    border-radius: 30px;
 }
 
 
@@ -75,7 +75,7 @@
 
 .get-directbut{
     border: 1px solid #ffffff;
-    border-radius: 10px;
+    border-radius: 30px;
     background-color: #000000;
     color: #ffffff;
     padding: 15px;
@@ -121,5 +121,5 @@
 
 
 .border-rad{
-    border-radius: 10px;
+    border-radius: 30px;
 }
